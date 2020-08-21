@@ -1,0 +1,1 @@
+# A função fetch retorna uma promise
